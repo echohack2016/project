@@ -1,10 +1,12 @@
 ![Echo - Assistive Tech](https://raw.githubusercontent.com/echohack2016/project/master/design/echo-logo.png)
 
-The Telstra [ConstructNow](constructnow.io) hackathon - 15-17 April 2016
+Telstra [ConstructNow](http://constructnow.io) hackathon 
+
+Melbourne :: 15-17 April 2016
 
 ## The Team
 
-These 4 talented hackers formed a team of Friday evening of the event. 
+These 4 talented hackers formed a team on the Friday evening at the start of the event. 
 
 - [Keaton Okkonen](https://www.linkedin.com/in/keatono)
 - [Jonas Olausson](https://www.facebook.com/jonas.olausson.58)
@@ -15,7 +17,7 @@ These 4 talented hackers formed a team of Friday evening of the event.
 
 ## The Concept
 
-The team was formed around the idea of helping visually impaired users by designing and ultra sound device that provides haptic feedback through vibrations that increase in frequency proportional to the distance of objects in their immediate environment.
+The team was formed around the idea of helping visually impaired users by designing a handheld ultrasonic device that provides haptic feedback through vibrations that increase and decrease proportional to the distance of objects you are pointing to in the immediate environment.
 
 ![Echo Concept](https://raw.githubusercontent.com/echohack2016/project/master/concept.png)
 
@@ -53,7 +55,7 @@ And breadboard the prototype ..
 
 ![Go Go!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_193821.jpg)
 
-And we need to do some some formulas to work out haptic feedback vs distance..
+And we need to do some some formulas to work out haptic feedback vs distance response..
 
 ![Working out formulas!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_161527.jpg)
 
