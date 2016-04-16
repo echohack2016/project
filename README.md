@@ -60,3 +60,7 @@ Write some code in the [Arduino](http://arduino.cc) IDE...
 #### AND DO SOME REAL HACKING!!!!
 
 ![Hacking the pipe!](https://raw.githubusercontent.com/echohack2016/project/master/img/real-hacking.jpg)
+
+#### ALRIGHT!!!!
+
+![Go Go!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_193821.jpg)
