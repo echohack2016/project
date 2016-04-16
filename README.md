@@ -39,6 +39,10 @@ After the initial presentation, the team found a spot to sit down and start hack
 
 ![Check it out!](https://raw.githubusercontent.com/echohack2016/project/master/img/its-blinking.jpg)
 
+Ok time to take a break..
+
+![Friday Evening Cityscape](https://raw.githubusercontent.com/echohack2016/project/master/img/melbourne-moon-cranes.jpg)
+
 Next, its time to do some soldering..
 
 ![Keaton soldering..!](https://raw.githubusercontent.com/echohack2016/project/master/img/time-for-soldering.jpg)
@@ -66,4 +70,8 @@ Write some code in the [Arduino](http://arduino.cc) IDE...
 #### AND DO SOME REAL HACKING!!!!
 
 ![Hacking the pipe!](https://raw.githubusercontent.com/echohack2016/project/master/img/real-hacking.jpg)
+
+Ok guys, lets home for the night...
+
+![Saturday Evening Cityscape](https://raw.githubusercontent.com/echohack2016/project/master/img/melbourne-townhall.jpg)
 
