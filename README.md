@@ -29,14 +29,19 @@ After the initial presentation, the team found a spot to sit down and start hack
 
 ![Starting](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160415_194756.jpg)
 
-ALRIGHT LETS GET TO IT!!
+#### ALRIGHT LETS GET TO IT!!
 
 ![Yeah!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160415_204312.jpg)
 
-A BREAKTHROUGH - ITS BLINKING!!!!
+####A BREAKTHROUGH - ITS BLINKING!!!!
 
 ![Check it out!](https://raw.githubusercontent.com/echohack2016/project/master/img/its-blinking.jpg)
 
 Next, its time to do some soldering..
 
 ![Keaton soldering..!](https://raw.githubusercontent.com/echohack2016/project/master/img/time-for-soldering.jpg)
+
+And breadboard the prototype ..
+
+![Keaton soldering..!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_145530.jpg)
+
