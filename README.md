@@ -10,11 +10,19 @@ The team was formed around the idea of helping visually impaired users by design
 
 ## The Team
 
-![Team Echo](https://raw.githubusercontent.com/echohack2016/project/master/the-team.jpg)
-
 These 4 talented hackers formed a team of Friday evening of the event. 
 
 - [Keaton Okkonen](https://www.linkedin.com/in/keatono)
 - [Jonas Olausson](https://www.facebook.com/jonas.olausson.58)
 - [Jacob Aharon](https://au.linkedin.com/in/jjaharon)
 - [Steven de Salas](https://www.linkedin.com/in/sdesalas)
+
+![Team Echo](https://raw.githubusercontent.com/echohack2016/project/master/the-team.jpg)
+
+## The Hardware Hack
+
+Keaton and Jonas had purchased the components for the echo project before the event.
+
+![Components](https://raw.githubusercontent.com/echohack2016/project/master/img/Startingout.jpg)
+
+
