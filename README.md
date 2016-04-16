@@ -29,6 +29,10 @@ After the initial presentation, the team found a spot to sit down and start hack
 
 ![Starting](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160415_194756.jpg)
 
-LETS DO IT!!
+ALRIGHT LETS GET TO IT!!
 
 ![Yeah!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160415_204312.jpg)
+
+A BREAKTHROUGH - ITS BLINKING!!!!
+
+![Check it out!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160415_213552.jpg)
