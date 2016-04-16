@@ -35,4 +35,8 @@ ALRIGHT LETS GET TO IT!!
 
 A BREAKTHROUGH - ITS BLINKING!!!!
 
-![Check it out!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160415_213557.jpg)
+![Check it out!](https://raw.githubusercontent.com/echohack2016/project/master/img/its-blinking.jpg)
+
+Next, its time to do some soldering..
+
+![Keaton soldering..!](https://raw.githubusercontent.com/echohack2016/project/master/img/time-for-soldering.jpg)
