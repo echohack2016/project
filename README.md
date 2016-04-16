@@ -43,8 +43,12 @@ Next, its time to do some soldering..
 
 And breadboard the prototype ..
 
-![Keaton soldering..!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_145530.jpg)
+![Magnified breadboard..!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_145530.jpg)
 
-#### THERE IT IS ..
+#### THERE IT IS !!!
 
-![Keaton soldering..!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_145555.jpg)
+![Prototype closeup..!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_145555.jpg)
+
+And we need to work out some formulas to derive the distance..
+
+![Working out formulas.!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_161527.jpg)
