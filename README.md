@@ -21,8 +21,11 @@ The team was formed around the idea of helping visually impaired users by design
 
 ## The Hardware Hack
 
-Keaton and Jonas had purchased the components for the echo project before the event.
+Keaton and Jonas had purchased some of the key components for the echo device before the event.
 
 ![Components](https://raw.githubusercontent.com/echohack2016/project/master/img/Startingout.jpg)
 
+After the initial presentation, the team found a spot to sit down and start hacking.
+
+![Starting](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160415_194756.jpg)
 
