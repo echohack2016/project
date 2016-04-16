@@ -21,7 +21,7 @@ The team was formed around the idea of helping visually impaired users by design
 
 ![Echo Concept](https://raw.githubusercontent.com/echohack2016/project/master/concept.png)
 
-## The Hardware Hack
+## The Timeline
 
 Keaton and Jonas had purchased some of the key components for the echo device before the event.
 
@@ -73,5 +73,5 @@ Write some code in the [Arduino](http://arduino.cc) IDE...
 
 Ok guys, lets home for the night...
 
-![Saturday Evening Cityscape](https://raw.githubusercontent.com/echohack2016/project/master/img/melbourne-townhall.jpg)
+![Saturday Evening Cityscape](https://raw.githubusercontent.com/echohack2016/project/master/img/melbourne-city-night.jpg)
 
