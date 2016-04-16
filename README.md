@@ -43,7 +43,7 @@ Next, its time to do some soldering..
 
 And breadboard the prototype ..
 
-![Magnified breadboard..!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_145530.jpg)
+![Magnified breadboard..!](https://raw.githubusercontent.com/echohack2016/project/master/img/magnified-breadboard.jpg)
 
 #### THERE IT IS !!!
 
