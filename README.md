@@ -11,4 +11,4 @@ The team was formed around the idea of helping visually impaired users by design
 - [Jacob Aharon](https://au.linkedin.com/in/jjaharon)
 - [Steven de Salas](https://www.linkedin.com/in/sdesalas)
 
-
+![Team Echo](the-team.jpg)
