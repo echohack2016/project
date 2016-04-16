@@ -4,7 +4,7 @@ The Telstra [ConstructNow](constructnow.io) hackathon - 15-17 April 2016
 
 ## The Team
 
-These 4 talented hackers formed a team of Friday evening of the event. 
+These 4 talented hackers formed a team on the Friday evening at the start of the event. 
 
 - [Keaton Okkonen](https://www.linkedin.com/in/keatono)
 - [Jonas Olausson](https://www.facebook.com/jonas.olausson.58)
