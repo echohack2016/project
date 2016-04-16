@@ -53,10 +53,10 @@ And we need to do some some formulas to work out haptic feedback vs distance..
 
 ![Working out formulas!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_161527.jpg)
 
+Write some code in the [Arduino](http://arduino.cc) IDE...
+
+![Arduino IDE](https://raw.githubusercontent.com/echohack2016/project/master/img/arduino-code.png)
+
 #### AND DO SOME REAL HACKING!!!!
 
 ![Hacking the pipe!](https://raw.githubusercontent.com/echohack2016/project/master/img/real-hacking.jpg)
-
-Here is a bit of arduino code...
-
-![Arduino IDE](https://raw.githubusercontent.com/echohack2016/project/master/img/arduino-code.png)
