@@ -1,6 +1,8 @@
 ![Echo - Assistive Tech](https://raw.githubusercontent.com/echohack2016/project/master/design/echo-logo.png)
 
-The Telstra [ConstructNow](constructnow.io) hackathon - 15-17 April 2016
+Telstra [ConstructNow](http://constructnow.io) hackathon 
+
+Melbourne :: 15-17 April 2016
 
 ## The Team
 
