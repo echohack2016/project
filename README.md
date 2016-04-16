@@ -8,7 +8,7 @@ The team was formed around the idea of helping visually impaired users by design
 
 ## The Team
 
-![Team Echo](the-team.jpg)
+![Team Echo](https://raw.githubusercontent.com/echohack2016/project/master/the-team.jpg)
 
 These 4 talented hackers formed a team of Friday evening of the event. 
 
