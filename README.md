@@ -49,6 +49,10 @@ And breadboard the prototype ..
 
 ![Prototype closeup..!](https://raw.githubusercontent.com/echohack2016/project/master/img/breadboard-closeup.jpg)
 
+#### ALRIGHT!!!!
+
+![Go Go!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_193821.jpg)
+
 And we need to do some some formulas to work out haptic feedback vs distance..
 
 ![Working out formulas!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_161527.jpg)
@@ -61,6 +65,3 @@ Write some code in the [Arduino](http://arduino.cc) IDE...
 
 ![Hacking the pipe!](https://raw.githubusercontent.com/echohack2016/project/master/img/real-hacking.jpg)
 
-#### ALRIGHT!!!!
-
-![Go Go!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_193821.jpg)
