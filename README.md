@@ -47,7 +47,7 @@ And breadboard the prototype ..
 
 #### THERE IT IS !!!
 
-![Prototype closeup..!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_145555.jpg)
+![Prototype closeup..!](https://raw.githubusercontent.com/echohack2016/project/master/img/breadboard-closeup.jpg)
 
 And we need to do some some formulas to work out haptic feedback vs distance..
 
