@@ -6,7 +6,7 @@ The Telstra [ConstructNow](constructnow.io) hackathon - 15-17 April 2016
 
 The team was formed around the idea of helping visually impaired users by designing and ultra sound device that provides haptic feedback through vibrations that increase in frequency proportional to the distance of objects in their immediate environment.
 
-![Echo Concept](https://raw.githubusercontent.com/echohack2016/project/master/concept.jpg)
+![Echo Concept](https://raw.githubusercontent.com/echohack2016/project/master/concept.png)
 
 ## The Team
 
