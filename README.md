@@ -17,7 +17,7 @@ These 4 talented hackers formed a team on the Friday evening at the start of the
 
 ## The Concept
 
-The team was formed around the idea of helping visually impaired users by designing a handheld ultrasonic device that provides haptic feedback through vibrations that increase and decrease proportional to the distance of objects pointed to in the immediate environment.
+The team was formed around the idea of helping visually impaired users by designing a handheld ultrasonic device that provides haptic feedback through vibrations that increase and decrease proportional to the distance of objects you are pointin to in the immediate environment.
 
 ![Echo Concept](https://raw.githubusercontent.com/echohack2016/project/master/concept.png)
 
