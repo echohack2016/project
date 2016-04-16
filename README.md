@@ -51,4 +51,8 @@ And breadboard the prototype ..
 
 And we need to do some some formulas to work out haptic feedback vs distance..
 
-![Working out formulas.!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_161527.jpg)
+![Working out formulas!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_161527.jpg)
+
+#### AND DO SOME REAL HACKING!!!!
+
+![Hacking the pipe!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160416_175954.jpg)
