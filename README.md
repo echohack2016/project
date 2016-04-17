@@ -87,3 +87,16 @@ OK we need a website too... Here is Jonas doing some visuals!
 
 ![Back to hacking..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_115040.jpg)
 
+And the store is up and running...
+
+![Back to hacking..](https://raw.githubusercontent.com/echohack2016/project/master/img/storefront.png)
+
+#### SOME LAST MINUTE TESTING WITH THE ENCLOSURE!!
+
+![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_115138.jpg)
+
+#### WE ARE SOOOOOO READY!!
+
+![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IIMG_20160417_143250.jpg)
+
+
