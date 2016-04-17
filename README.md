@@ -94,12 +94,22 @@ And the store is up and running...
 
 ![Back to hacking..](https://raw.githubusercontent.com/echohack2016/project/master/img/storefront.png)
 
-#### SOME LAST MINUTE TESTING WITH THE ENCLOSURE!!
+We get the device in the enclosure...
 
 ![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_115138.jpg)
 
-#### WE ARE SOOOOOO READY!!
+#### .. SOME LAST MINUTE TESTING!!
+
+![Last Minute testing..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_174103.jpg)
+
+#### WE ARE SOOOOOO READY FOR THE PITCH!!
 
 ![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_143250.jpg)
 
+#### OH NOOOOO!!!
 
+![Pitch](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_165137.jpg)
+
+#### OH YEAA - PEOPLE'S CHOICE!!!!
+
+![People's Choice](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_183627.jpg)
