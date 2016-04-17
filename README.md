@@ -98,7 +98,7 @@ We get the device in the enclosure...
 
 ![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_115138.jpg)
 
-#### .. SOME LAST MINUTE TESTING WITH THE ENCLOSURE!!
+#### .. SOME LAST MINUTE TESTING!!
 
 ![Last Minute testing..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_174103.jpg)
 
