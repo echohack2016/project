@@ -97,6 +97,6 @@ And the store is up and running...
 
 #### WE ARE SOOOOOO READY!!
 
-![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IIMG_20160417_143250.jpg)
+![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_143250.jpg)
 
 
