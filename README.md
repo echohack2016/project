@@ -90,7 +90,7 @@ OK we need a website too... Here is Jonas doing some visuals!
 
 ![Back to hacking..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_115040.jpg)
 
-And the store is up and running...
+And the [store is up and running](http://echohack2016.herokuapp.com/)...
 
 ![Back to hacking..](https://raw.githubusercontent.com/echohack2016/project/master/img/storefront.png)
 
