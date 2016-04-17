@@ -75,6 +75,15 @@ Write some code in the [Arduino](http://arduino.cc) IDE...
 
 ![OH NO YOU KILLED IT!!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_093346.jpg)
 
-Guys its dead... Lets home for the night...
+Guys ITS DEAD... Lets home for the night...
 
 ![Saturday Evening Cityscape](https://raw.githubusercontent.com/echohack2016/project/master/img/melbourne-city-night.jpg)
+
+AND back to it in the morning..
+
+![Back to hacking..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_142442.jpg)
+
+OK we need a website too... Here is Jonas doing some visuals!
+
+![Back to hacking..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_115040.jpg)
+
