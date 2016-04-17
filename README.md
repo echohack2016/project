@@ -71,7 +71,10 @@ Write some code in the [Arduino](http://arduino.cc) IDE...
 
 ![Hacking the pipe!](https://raw.githubusercontent.com/echohack2016/project/master/img/real-hacking.jpg)
 
+Oh no Keaton, you killed it!!!
+
+![OH NO YOU KILLED IT!!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_093346.jpg)
+
 Ok guys, lets home for the night...
 
 ![Saturday Evening Cityscape](https://raw.githubusercontent.com/echohack2016/project/master/img/melbourne-city-night.jpg)
-
