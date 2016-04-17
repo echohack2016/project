@@ -71,7 +71,7 @@ Write some code in the [Arduino](http://arduino.cc) IDE...
 
 ![Hacking the pipe!](https://raw.githubusercontent.com/echohack2016/project/master/img/real-hacking.jpg)
 
-#### OH NO KEATON YOUR KILLED IT!!!
+#### OH NO GUYS WE KILLED IT!!!
 
 ![OH NO YOU KILLED IT!!](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_093346.jpg)
 
