@@ -1,6 +1,6 @@
 ![Echo - Assistive Tech](https://raw.githubusercontent.com/echohack2016/project/master/design/echo-logo.png)
 
-Telstra [ConstructNow](http://constructnow.io) hackathon 
+Telstra [ConstructNow](http://constructnow.io) hackathon - [project echo](http://echohack2016.github.io/project/)
 
 Melbourne :: 15-17 April 2016
 
@@ -97,6 +97,6 @@ And the store is up and running...
 
 #### WE ARE SOOOOOO READY!!
 
-![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IIMG_20160417_143250.jpg)
+![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_143250.jpg)
 
 
