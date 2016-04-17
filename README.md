@@ -106,4 +106,10 @@ We get the device in the enclosure...
 
 ![Enclosure..](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_143250.jpg)
 
+#### OH NOOOOO!!!
 
+![Pitch](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_165137.jpg)
+
+#### OH YEAA - PEOPLE'S CHOICE!!!!
+
+![People's Choice](https://raw.githubusercontent.com/echohack2016/project/master/img/IMG_20160417_183627.jpg)
